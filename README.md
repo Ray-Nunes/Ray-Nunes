@@ -6,9 +6,9 @@ Estudante de desenvolvimento mobile e sistemas embarcados
 
 Estou cursando Sistemas de informação no 2° período na instituição CESMAC. Estou estudando React Native CLI para criação de app mobile e também sistemas embarcados como arduino e Raspberry Pi, tenho alguns projetos em desenvolvimento que você pode conferir aqui no GitHub e no meu Linkedin.
 
-* 🖥️  See my portfolio at [Esse é o meu Linkedin](http://https://www.linkedin.com/in/ray-nunes-b10154280/)
-* ✉️  You can contact me at [Raybnunes08@gmail.com](mailto:Raybnunes08@gmail.com)
-* 🚀  I'm currently working on [Veja aqui o aplicativo que estou desenvolvendo](http://https://www.linkedin.com/posts/ray-nunes-b10154280_estou-desenvolvendo-um-aplicativo-que-resolve-ugcPost-7393653280419237888-FwDQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERdgjwBbszlweqvfZLozGpH4o93SFxKdaU)
+* 🖥️  See my portfolio at [Esse é o meu Linkedin](https://www.linkedin.com/ray-nunes-b10154280/)
+* ✉️  You can contact me at [Raybnunes08@gmail.com](Raybnunes08@gmail.com)
+* 🚀  I'm currently working on [Veja aqui o aplicativo que estou desenvolvendo](https://www.linkedin.com/posts/ray-nunes-b10154280_estou-desenvolvendo-um-aplicativo-que-resolve-ugcPost-7393653280419237888-FwDQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERdgjwBbszlweqvfZLozGpH4o93SFxKdaU)
 * 🧠  I'm currently learning React Native e c++
 
 <p align="left">
